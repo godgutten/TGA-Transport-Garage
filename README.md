@@ -1,9 +1,13 @@
 Old Version
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Old version
 Old version
 Old version
 Old version
+=======
+
+>>>>>>> Stashed changes
 =======
 
 >>>>>>> Stashed changes
@@ -30,7 +34,10 @@ If you found bug or you have a suggestion use Issues on github to report it ;)
 Old version
 Old version
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Old version
 Old version
+=======
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
