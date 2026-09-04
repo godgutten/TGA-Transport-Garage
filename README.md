@@ -1,8 +1,16 @@
 Old Version
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Old version
 Old version
 Old version
 Old version
+=======
+
+>>>>>>> Stashed changes
+=======
+
+>>>>>>> Stashed changes
 # TGA Transport Garage
 ![20200921160523_1](https://user-images.githubusercontent.com/33183981/93781801-0c18cf80-fc2a-11ea-8431-82a5ecc2492e.jpg)
 
@@ -25,5 +33,11 @@ If you found bug or you have a suggestion use Issues on github to report it ;)
 
 Old version
 Old version
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 Old version
 Old version
+=======
+>>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
