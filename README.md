@@ -18,4 +18,4 @@ Game crash does not effect any save games. Just restart the game and remember th
 
 If you found bug or you have a suggestion use Issues on github to report it ;)
 
-Old
+Old version
